@@ -1,0 +1,8 @@
+{
+    "parent": "block/inner_stairs",
+    "textures": {
+        "bottom": "buildiblocks:blocks/claytile_magenta",
+        "top": "buildiblocks:blocks/claytile_magenta",
+        "side": "buildiblocks:blocks/claytile_magenta"
+    }
+}

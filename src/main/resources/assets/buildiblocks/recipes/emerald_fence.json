@@ -1,0 +1,20 @@
+{
+  "type": "forge:ore_shaped",
+  "group": "minecraft:wooden_fence",
+  "pattern": [
+    "aba",
+    "aba"
+  ],
+  "key": {
+    "a": {
+      "item": "minecraft:emerald_block"
+    },
+    "b": {
+      "item": "buildiblocks:emerald_rod"
+    }
+  },
+  "result": {
+    "item": "buildiblocks:emerald_fence",
+    "count": 5
+  }
+}

@@ -1,0 +1,6 @@
+{
+    "variants": {
+        "half=bottom": { "model": "buildiblocks:stonebrick_cracked_slab_bottom" },
+        "half=top": { "model": "buildiblocks:stonebrick_cracked_slab_top" }
+    }
+}

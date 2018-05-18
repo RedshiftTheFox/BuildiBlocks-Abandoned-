@@ -1,0 +1,6 @@
+{
+    "variants": {
+        "half=bottom": { "model": "buildiblocks:claytile_green_slab_bottom" },
+        "half=top": { "model": "buildiblocks:claytile_green_slab_top" }
+    }
+}

@@ -1,0 +1,17 @@
+{
+  "type": "forge:ore_shaped",
+  "pattern": [
+    "a",
+    "a"
+  ],
+  "key": {
+    "a": {
+      "item": "minecraft:log",
+      "data": 0
+    }
+  },
+  "result": {
+    "item": "buildiblocks:carved_oak_log",
+    "count": 1
+  }
+}

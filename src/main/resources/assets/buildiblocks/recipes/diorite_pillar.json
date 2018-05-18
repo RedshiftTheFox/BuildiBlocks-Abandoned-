@@ -1,0 +1,17 @@
+{
+  "type": "forge:ore_shaped",
+  "pattern": [
+    "a",
+    "a"
+  ],
+  "key": {
+    "a": {
+      "item": "minecraft:stone",
+      "data": 3
+    }
+  },
+  "result": {
+    "item": "buildiblocks:diorite_pillar",
+    "count": 2
+  }
+}

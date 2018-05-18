@@ -1,0 +1,17 @@
+{
+  "type": "forge:ore_shaped",
+  "pattern": [
+    "aa",
+    "aa"
+  ],
+  "key": {
+    "a": {
+      "item": "minecraft:stained_hardened_clay",
+      "data": 6
+    }
+  },
+  "result": {
+    "item": "buildiblocks:claytile_pink",
+    "count": 4
+  }
+}

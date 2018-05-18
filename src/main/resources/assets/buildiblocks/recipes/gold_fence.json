@@ -1,0 +1,20 @@
+{
+  "type": "forge:ore_shaped",
+  "group": "minecraft:wooden_fence",
+  "pattern": [
+    "aba",
+    "aba"
+  ],
+  "key": {
+    "a": {
+      "item": "minecraft:gold_block"
+    },
+    "b": {
+      "item": "buildiblocks:gold_rod"
+    }
+  },
+  "result": {
+    "item": "buildiblocks:gold_fence",
+    "count": 5
+  }
+}

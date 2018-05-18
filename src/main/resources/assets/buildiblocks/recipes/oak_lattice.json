@@ -1,0 +1,21 @@
+{
+  "type": "forge:ore_shaped",
+  "pattern": [
+    "a a",
+    " b ",
+    "a a"
+  ],
+  "key": {
+    "a": {
+      "item": "minecraft:planks",
+      "data": 0
+    },
+    "b": {
+      "item": "minecraft:stick"
+    }
+  },
+  "result": {
+    "item": "buildiblocks:oak_lattice",
+    "count": 6
+  }
+}

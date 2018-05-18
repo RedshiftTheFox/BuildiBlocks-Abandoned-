@@ -1,0 +1,7 @@
+{
+    "variants": {
+        "axis=y": { "model": "buildiblocks:stone_pillar" },
+        "axis=z": { "model": "buildiblocks:stone_pillar", "x": 90 },
+        "axis=x": { "model": "buildiblocks:stone_pillar", "x": 90, "y": 90 }
+    }
+}

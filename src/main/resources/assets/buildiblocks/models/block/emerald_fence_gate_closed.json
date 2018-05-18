@@ -1,0 +1,6 @@
+{
+    "parent": "shiftcraft:block/fence_gate_closed",
+    "textures": {
+        "texture": "blocks/emerald_block"
+    }
+}

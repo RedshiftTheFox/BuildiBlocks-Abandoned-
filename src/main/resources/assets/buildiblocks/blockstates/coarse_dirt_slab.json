@@ -1,0 +1,6 @@
+{
+    "variants": {
+        "half=bottom": { "model": "buildiblocks:coarse_dirt_slab_bottom" },
+        "half=top": { "model": "buildiblocks:coarse_dirt_slab_top" }
+    }
+}

@@ -1,0 +1,17 @@
+{
+  "type": "forge:ore_shaped",
+  "pattern": [
+    "aaa",
+    "aaa"
+  ],
+  "key": {
+    "a": {
+      "item": "minecraft:stained_hardened_clay",
+      "data": 0
+    }
+  },
+  "result": {
+    "item": "buildiblocks:hardclay_white_wall",
+    "count": 6
+  }
+}

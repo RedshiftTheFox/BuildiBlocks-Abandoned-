@@ -1,0 +1,17 @@
+{
+  "type": "forge:ore_shaped",
+  "pattern": [
+    "a  ",
+    "aa ",
+    "aaa"
+  ],
+  "key": {
+    "a": {
+      "item": "buildiblocks:claytile_light_blue"
+    }
+  },
+  "result": {
+    "item": "buildiblocks:claytile_light_blue_stairs",
+    "count": 6
+  }
+}

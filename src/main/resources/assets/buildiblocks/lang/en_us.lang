@@ -1,0 +1,460 @@
+
+tile.andesite_brick.name=Andesite Brick
+tile.carved_acacia_wood.name=Carved Acacia Wood
+tile.carved_birch_wood.name=Carved Birch Wood
+tile.carved_dark_oak_wood.name=Carved Dark Oak Wood
+tile.carved_jungle_wood.name=Carved Jungle Wood
+tile.carved_oak_wood.name=Carved Oak Wood
+tile.carved_spruce_wood.name=Carved Spruce Wood
+tile.embellished_diamond_block.name=Embellished Diamond Block
+tile.embellished_emerald_block.name=Embellished Emerald  Block
+tile.embellished_gold_block.name=Embellished Gold  Block
+tile.embellished_iron_block.name=Embellished Iron Block
+tile.diorite_brick.name=Diorite Brick
+tile.granite_brick.name=Granite Brick
+
+tile.claytile.name=Clay Tile 
+tile.claytile_black.name=Black Clay Tile
+tile.claytile_blue.name=Blue Clay Tile
+tile.claytile_brown.name=Brown Clay Tile
+tile.claytile_cyan.name=Cyan Clay Tile
+tile.claytile_gray.name=Gray Clay Tile
+tile.claytile_green.name=Green Clay Tile
+tile.claytile_light_blue.name=Light Blue Clay Tile
+tile.claytile_lime.name=Lime Clay Tile
+tile.claytile_magenta.name=Magenta Clay Tile
+tile.claytile_orange.name=Orange Clay Tile
+tile.claytile_pink.name=Pink Clay Tile
+tile.claytile_purple.name=Purple Clay Tile
+tile.claytile_red.name=Red Clay Tile
+tile.claytile_silver.name=Silver Clay Tile
+tile.claytile_white.name=White Clay Tile
+tile.claytile_yellow.name=Yellow Clay Tile
+
+tile.oak_plank_black.name=Black Painted Oak Planks
+tile.oak_plank_blue.name=Blue Painted Oak Planks
+tile.oak_plank_cyan.name=Cyan Painted Oak Planks
+tile.oak_plank_gray.name=Gray Painted Oak Planks
+tile.oak_plank_green.name=Green Painted Oak Planks
+tile.oak_plank_light_blue.name=Light Blue Painted Oak Planks
+tile.oak_plank_lime.name=Lime Painted Oak Planks
+tile.oak_plank_magenta.name=Magenta Painted Oak Planks
+tile.oak_plank_orange.name=Orange Painted Oak Planks
+tile.oak_plank_pink.name=Pink Painted Oak Planks
+tile.oak_plank_purple.name=Purple Painted Oak Planks
+tile.oak_plank_red.name=Red Painted Oak Planks
+tile.oak_plank_silver.name=Silver Painted Oak Planks
+tile.oak_plank_white.name=White Painted Oak Planks
+tile.oak_plank_yellow.name=Yellow Painted Oak Planks
+
+
+
+tile.stone_pillar.name=Stone Pillar
+tile.andesite_pillar.name=Andesite Pillar
+tile.diorite_pillar.name=Diorite Pillar
+tile.granite_pillar.name=Granite Pillar
+tile.carved_acacia_log.name=Carved Acacia Log
+tile.carved_birch_log.name=Carved Birch Log
+tile.carved_dark_oak_log.name=Carved Dark Oak Log
+tile.carved_jungle_log.name=Carved Jungle Log
+tile.carved_oak_log.name=Carved Oak Log
+tile.carved_spruce_log.name=Carved Spruce Log
+
+
+
+tile.andesite_polished_slab.name=Polished Andesite Slab
+tile.andesite_brick_slab.name=Andesite Brick Slab
+tile.diorite_polished_slab.name=Polished Diorite Slab
+tile.diorite_brick_slab.name=Diorite Brick Slab
+tile.granite_polished_slab.name=Polished Granite Slab
+tile.granite_brick_slab.name=Granite Brick Slab
+tile.stonebrick_cracked_slab.name=Cracked Stone Brick Slab
+tile.stonebrick_mossy_slab.name=Mossy Stone Brick Slab
+tile.cobblestone_mossy_slab.name=Mossy Cobblestone Slab
+tile.obsidian_slab.name=Obsidian Slab
+tile.prismarine_brick_slab.name=Prismarine Brick Slab
+tile.prismarine_dark_slab.name=Dark Prismarine Slab
+tile.red_sandstone_smooth_slab.name=Smooth Red Sandstone Slab
+tile.sandstone_smooth_slab.name=Smooth Sandstone Slab
+tile.coarse_dirt_slab.name=Coarse Dirt Slab
+tile.iron_slab.name=Iron Slab
+tile.gold_slab.name=Gold Slab
+tile.diamond_slab.name=Diamond Slab
+tile.emerald_slab.name=Emerald Slab
+tile.lapis_slab.name=Lapis Slab
+tile.end_brick_slab.name=End Brick Slab
+tile.haybale_slab.name=Haybale Slab
+
+tile.oak_plank_white_slab.name=White Painted Oak Plank Slab
+tile.oak_plank_orange_slab.name=Orange Painted Oak Plank Slab
+tile.oak_plank_magenta_slab.name=Magenta Painted Oak Plank Slab
+tile.oak_plank_light_blue_slab.name=Light Blue Painted Oak Plank Slab
+tile.oak_plank_yellow_slab.name=Yellow Painted Oak Plank Slab
+tile.oak_plank_lime_slab.name=Lime Painted Oak Plank Slab
+tile.oak_plank_pink_slab.name=Pink Painted Oak Plank Slab
+tile.oak_plank_gray_slab.name=Gray Painted Oak Plank Slab
+tile.oak_plank_silver_slab.name=Silver Painted Oak Plank Slab
+tile.oak_plank_cyan_slab.name=Cyan Painted Oak Plank Slab
+tile.oak_plank_purple_slab.name=Purple Painted Oak Plank Slab
+tile.oak_plank_blue_slab.name=Blue Painted Oak Plank Slab
+tile.oak_plank_brown_slab.name=Brown Painted Oak Plank Slab
+tile.oak_plank_green_slab.name=Green Painted Oak Plank Slab
+tile.oak_plank_red_slab.name=Red Painted Oak Plank Slab
+tile.oak_plank_black_slab.name=Black Painted Oak Plank Slab
+tile.claytile_slab.name=Clay Tile Slab
+tile.claytile_white_slab.name=White Clay Tile Slab
+tile.claytile_orange_slab.name=Orange Clay Tile Slab
+tile.claytile_magenta_slab.name=Magenta Clay Tile Slab
+tile.claytile_light_blue_slab.name=Light Blue Clay Tile Slab
+tile.claytile_yellow_slab.name=Yellow Clay Tile Slab
+tile.claytile_lime_slab.name=Lime Clay Tile Slab
+tile.claytile_pink_slab.name=Pink Clay Tile Slab
+tile.claytile_gray_slab.name=Gray Clay Tile Slab
+tile.claytile_silver_slab.name=Silver Clay Tile Slab
+tile.claytile_cyan_slab.name=Cyan Clay Tile Slab
+tile.claytile_purple_slab.name=Purple Clay Tile Slab
+tile.claytile_blue_slab.name=Blue Clay Tile Slab
+tile.claytile_brown_slab.name=Brown Clay Tile Slab
+tile.claytile_green_slab.name=Green Clay Tile Slab
+tile.claytile_red_slab.name=Red Clay Tile Slab
+tile.claytile_black_slab.name=Black Clay Tile Slab
+tile.hardclay_slab.name=Hardclay Slab
+tile.hardclay_white_slab.name=White Hardclay Slab
+tile.hardclay_orange_slab.name=Orange Hardclay Slab
+tile.hardclay_magenta_slab.name=Magenta Hardclay Slab
+tile.hardclay_light_blue_slab.name=Light Blue Hardclay Slab
+tile.hardclay_yellow_slab.name=Yellow Hardclay Slab
+tile.hardclay_lime_slab.name=Lime Hardclay Slab
+tile.hardclay_pink_slab.name=Pink Hardclay Slab
+tile.hardclay_gray_slab.name=Gray Hardclay Slab
+tile.hardclay_silver_slab.name=Silver Hardclay Slab
+tile.hardclay_cyan_slab.name=Cyan Hardclay Slab
+tile.hardclay_purple_slab.name=Purple Hardclay Slab
+tile.hardclay_blue_slab.name=Blue Hardclay Slab
+tile.hardclay_brown_slab.name=Brown Hardclay Slab
+tile.hardclay_green_slab.name=Green Hardclay Slab
+tile.hardclay_red_slab.name=Red Hardclay Slab
+tile.hardclay_black_slab.name=Black Hardclay Slab
+tile.wool_slab.name=Wool Slab
+tile.wool_white_slab.name=White Wool Slab
+tile.wool_orange_slab.name=Orange Wool Slab
+tile.wool_magenta_slab.name=Magenta Wool Slab
+tile.wool_light_blue_slab.name=Light Blue Wool Slab
+tile.wool_yellow_slab.name=Yellow Wool Slab
+tile.wool_lime_slab.name=Lime Wool Slab
+tile.wool_pink_slab.name=Pink Wool Slab
+tile.wool_gray_slab.name=Gray Wool Slab
+tile.wool_silver_slab.name=Silver Wool Slab
+tile.wool_cyan_slab.name=Cyan Wool Slab
+tile.wool_purple_slab.name=Purple Wool Slab
+tile.wool_blue_slab.name=Blue Wool Slab
+tile.wool_brown_slab.name=Brown Wool Slab
+tile.wool_green_slab.name=Green Wool Slab
+tile.wool_red_slab.name=Red Wool Slab
+tile.wool_black_slab.name=Black Wool Slab
+tile.glass_slab.name=Glass Slab
+tile.glass_white_slab.name=White Glass Slab
+tile.glass_orange_slab.name=Orange Glass Slab
+tile.glass_magenta_slab.name=Magenta Glass Slab
+tile.glass_light_blue_slab.name=Light Blue Glass Slab
+tile.glass_yellow_slab.name=Yellow Glass Slab
+tile.glass_lime_slab.name=Lime Glass Slab
+tile.glass_pink_slab.name=Pink Glass Slab
+tile.glass_gray_slab.name=Gray Glass Slab
+tile.glass_silver_slab.name=Silver Glass Slab
+tile.glass_cyan_slab.name=Cyan Glass Slab
+tile.glass_purple_slab.name=Purple Glass Slab
+tile.glass_blue_slab.name=Blue Glass Slab
+tile.glass_brown_slab.name=Brown Glass Slab
+tile.glass_green_slab.name=Green Glass Slab
+tile.glass_red_slab.name=Red Glass Slab
+tile.glass_black_slab.name=Black Glass Slab
+
+
+
+tile.stone_stairs.name=Stone Stairs
+tile.stonebrick_cracked_stairs.name=Cracked Stone Brick Stairs
+tile.stonebrick_mossy_stairs.name=Mossy Stone Brick Stairs
+tile.andesite_brick_stairs.name=Andesite Brick Stairs
+tile.andesite_polished_stairs.name=Polished Andesite Stairs
+tile.cobblestone_mossy_stairs.name=Mossy Cobblestone Stairs
+tile.diamond_stairs.name=Diamond Stairs
+tile.diorite_brick_stairs.name=Diorite Brick Stairs
+tile.diorite_polished_stairs.name=Polished Diorite Stairs
+tile.emerald_stairs.name=Emerald Stairs
+tile.end_brick_stairs.name=End Brick Stairs
+tile.gold_stairs.name=Gold Stairs
+tile.granite_brick_stairs.name=Granite Brick Stairs
+tile.granite_polished_stairs.name=Polished Granite Stairs
+tile.iron_stairs.name=Iron Stairs
+tile.lapis_stairs.name=Lapis Stairs
+tile.obsidian_stairs.name=Obsidian Stairs
+tile.prismarine_brick_stairs.name=Prismarine Brick Stairs
+tile.prismarine_dark_stairs.name=Dark Prismarine Stairs
+tile.red_sandstone_smooth_stairs.name=Smooth Red Sandstone Stairs
+tile.sandstone_smooth_stairs.name=Smooth Sandstone Stairs
+
+tile.oak_plank_white_stairs.name=White Painted Oak Plank Stairs
+tile.oak_plank_orange_stairs.name=Orange Painted Oak Plank Stairs
+tile.oak_plank_magenta_stairs.name=Magenta Painted Oak Plank Stairs
+tile.oak_plank_light_blue_stairs.name=Light Blue Painted Oak Plank Stairs
+tile.oak_plank_yellow_stairs.name=Yellow Painted Oak Plank Stairs
+tile.oak_plank_lime_stairs.name=Lime Painted Oak Plank Stairs
+tile.oak_plank_pink_stairs.name=Pink Painted Oak Plank Stairs
+tile.oak_plank_gray_stairs.name=Gray Painted Oak Plank Stairs
+tile.oak_plank_silver_stairs.name=Silver Painted Oak Plank Stairs
+tile.oak_plank_cyan_stairs.name=Cyan Painted Oak Plank Stairs
+tile.oak_plank_purple_stairs.name=Purple Painted Oak Plank Stairs
+tile.oak_plank_blue_stairs.name=Blue Painted Oak Plank Stairs
+tile.oak_plank_brown_stairs.name=Brown Painted Oak Plank Stairs
+tile.oak_plank_green_stairs.name=Green Painted Oak Plank Stairs
+tile.oak_plank_red_stairs.name=Red Painted Oak Plank Stairs
+tile.oak_plank_black_stairs.name=Black Painted Oak Plank Stairs
+tile.claytile_stairs.name=Clay Tile Stairs
+tile.claytile_white_stairs.name=White Clay Tile Stairs
+tile.claytile_orange_stairs.name=Orange Clay Tile Stairs
+tile.claytile_magenta_stairs.name=Magenta Clay Tile Stairs
+tile.claytile_light_blue_stairs.name=Light Blue Clay Tile Stairs
+tile.claytile_yellow_stairs.name=Yellow Clay Tile Stairs
+tile.claytile_lime_stairs.name=Lime Clay Tile Stairs
+tile.claytile_pink_stairs.name=Pink Clay Tile Stairs
+tile.claytile_gray_stairs.name=Gray Clay Tile Stairs
+tile.claytile_silver_stairs.name=Silver Clay Tile Stairs
+tile.claytile_cyan_stairs.name=Cyan Clay Tile Stairs
+tile.claytile_purple_stairs.name=Purple Clay Tile Stairs
+tile.claytile_blue_stairs.name=Blue Clay Tile Stairs
+tile.claytile_brown_stairs.name=Brown Clay Tile Stairs
+tile.claytile_green_stairs.name=Green Clay Tile Stairs
+tile.claytile_red_stairs.name=Red Clay Tile Stairs
+tile.claytile_black_stairs.name=Black Clay Tile Stairs
+tile.hardclay_stairs.name=Hardclay Stairs
+tile.hardclay_white_stairs.name=White Hardclay Stairs
+tile.hardclay_orange_stairs.name=Orange Hardclay Stairs
+tile.hardclay_magenta_stairs.name=Magenta Hardclay Stairs
+tile.hardclay_light_blue_stairs.name=Light Blue Hardclay Stairs
+tile.hardclay_yellow_stairs.name=Yellow Hardclay Stairs
+tile.hardclay_lime_stairs.name=Lime Hardclay Stairs
+tile.hardclay_pink_stairs.name=Pink Hardclay Stairs
+tile.hardclay_gray_stairs.name=Gray Hardclay Stairs
+tile.hardclay_silver_stairs.name=Silver Hardclay Stairs
+tile.hardclay_cyan_stairs.name=Cyan Hardclay Stairs
+tile.hardclay_purple_stairs.name=Purple Hardclay Stairs
+tile.hardclay_blue_stairs.name=Blue Hardclay Stairs
+tile.hardclay_brown_stairs.name=Brown Hardclay Stairs
+tile.hardclay_green_stairs.name=Green Hardclay Stairs
+tile.hardclay_red_stairs.name=Red Hardclay Stairs
+tile.hardclay_black_stairs.name=Black Hardclay Stairs
+tile.wool_stairs.name=Wool Stairs
+tile.wool_white_stairs.name=White Wool Stairs
+tile.wool_orange_stairs.name=Orange Wool Stairs
+tile.wool_magenta_stairs.name=Magenta Wool Stairs
+tile.wool_light_blue_stairs.name=Light Blue Wool Stairs
+tile.wool_yellow_stairs.name=Yellow Wool Stairs
+tile.wool_lime_stairs.name=Lime Wool Stairs
+tile.wool_pink_stairs.name=Pink Wool Stairs
+tile.wool_gray_stairs.name=Gray Wool Stairs
+tile.wool_silver_stairs.name=Silver Wool Stairs
+tile.wool_cyan_stairs.name=Cyan Wool Stairs
+tile.wool_purple_stairs.name=Purple Wool Stairs
+tile.wool_blue_stairs.name=Blue Wool Stairs
+tile.wool_brown_stairs.name=Brown Wool Stairs
+tile.wool_green_stairs.name=Green Wool Stairs
+tile.wool_red_stairs.name=Red Wool Stairs
+tile.wool_black_stairs.name=Black Wool Stairs
+tile.glass_stairs.name=Glass Stairs
+tile.glass_white_stairs.name=White Glass Stairs
+tile.glass_orange_stairs.name=Orange Glass Stairs
+tile.glass_magenta_stairs.name=Magenta Glass Stairs
+tile.glass_light_blue_stairs.name=Light Blue Glass Stairs
+tile.glass_yellow_stairs.name=Yellow Glass Stairs
+tile.glass_lime_stairs.name=Lime Glass Stairs
+tile.glass_pink_stairs.name=Pink Glass Stairs
+tile.glass_gray_stairs.name=Gray Glass Stairs
+tile.glass_silver_stairs.name=Silver Glass Stairs
+tile.glass_cyan_stairs.name=Cyan Glass Stairs
+tile.glass_purple_stairs.name=Purple Glass Stairs
+tile.glass_blue_stairs.name=Blue Glass Stairs
+tile.glass_brown_stairs.name=Brown Glass Stairs
+tile.glass_green_stairs.name=Green Glass Stairs
+tile.glass_red_stairs.name=Red Glass Stairs
+tile.glass_black_stairs.name=Black Glass Stairs
+
+
+
+tile.stone_wall.name=Stone Wall
+tile.stonebrick_cracked_wall.name=Cracked Stone Brick Wall
+tile.stonebrick_mossy_wall.name=Mossy Stone Brick Wall
+tile.stonebrick_wall.name=Stone Brick Wall
+tile.oak_wall.name=Oak Plank Wall
+tile.spruce_wall.name=Spruce Plank Wall
+tile.birch_wall.name=Birch Plank Wall
+tile.jungle_wall.name=Jungle plank Wall
+tile.dark_oak_wall.name=Dark Oak Plank Wall
+tile.acacia_wall.name=Acacia Plank Wall
+tile.andesite_brick_wall.name=Andesite Brick Wall
+tile.andesite_polished_wall.name=Polished Andesite Wall
+tile.brick_wall.name=Brick Wall
+tile.diamond_wall.name=Diamond Wall
+tile.diorite_brick_wall.name=Diorite Brick Wall
+tile.diorite_polished_wall.name=Polished Diorite Wall
+tile.emerald_wall.name=Emerald Wall
+tile.end_brick_wall.name=End Brick Wall
+tile.gold_wall.name=Gold Wall
+tile.granite_brick_wall.name=Granite Brick Wall
+tile.granite_polished_wall.name=Polished granite Wall
+tile.iron_wall.name=Iron Wall
+tile.lapis_wall.name=Lapis Lazuli Wall
+tile.netherbrick_wall.name=Nether Brick Wall
+tile.obsidian_wall.name=Obsidian Wall
+tile.prismarine_brick_wall.name=Prismarine Brick Wall
+tile.prismarine_dark_wall.name=Dark Prismarine Wall
+tile.quartz_wall.name=Quartz Wall
+tile.red_sandstone_smooth_wall.name=Smooth Red Sandstone Wall
+tile.red_sandstone_wall.name=Red Sandstone Wall
+tile.sandstone_smooth_wall.name=Smooth Sandstone Wall
+tile.sandstone_wall.name=Sandstone Wall
+tile.purpur_brick_wall.name=Purpur Brick Wall
+
+tile.oak_plank_white_wall.name=White Painted Oak Plank Wall
+tile.oak_plank_orange_wall.name=Orange Painted Oak Plank Wall
+tile.oak_plank_magenta_wall.name=Magenta Painted Oak Plank Wall
+tile.oak_plank_light_blue_wall.name=Light Blue Painted Oak Plank Wall
+tile.oak_plank_yellow_wall.name=Yellow Painted Oak Plank Wall
+tile.oak_plank_lime_wall.name=Lime Painted Oak Plank Wall
+tile.oak_plank_pink_wall.name=Pink Painted Oak Plank Wall
+tile.oak_plank_gray_wall.name=Gray Painted Oak Plank Wall
+tile.oak_plank_silver_wall.name=Silver Painted Oak Plank Wall
+tile.oak_plank_cyan_wall.name=Cyan Painted Oak Plank Wall
+tile.oak_plank_purple_wall.name=Purple Painted Oak Plank Wall
+tile.oak_plank_blue_wall.name=Blue Painted Oak Plank Wall
+tile.oak_plank_brown_wall.name=Brown Painted Oak Plank Wall
+tile.oak_plank_green_wall.name=Green Painted Oak Plank Wall
+tile.oak_plank_red_wall.name=Red Painted Oak Plank Wall
+tile.oak_plank_black_wall.name=Black Painted Oak Plank Wall
+tile.hardclay_wall.name=Hardclay Wall
+tile.hardclay_white_wall.name=White Hardclay Wall
+tile.hardclay_orange_wall.name=Orange Hardclay Wall
+tile.hardclay_magenta_wall.name=Magenta Hardclay Wall
+tile.hardclay_light_blue_wall.name=Light Blue Hardclay Wall
+tile.hardclay_yellow_wall.name=Yellow Hardclay Wall
+tile.hardclay_lime_wall.name=Lime Hardclay Wall
+tile.hardclay_pink_wall.name=Pink Hardclay Wall
+tile.hardclay_gray_wall.name=Gray Hardclay Wall
+tile.hardclay_silver_wall.name=Silver Hardclay Wall
+tile.hardclay_cyan_wall.name=Cyan Hardclay Wall
+tile.hardclay_purple_wall.name=Purple Hardclay Wall
+tile.hardclay_blue_wall.name=Blue Hardclay Wall
+tile.hardclay_brown_wall.name=Brown Hardclay Wall
+tile.hardclay_green_wall.name=Green Hardclay Wall
+tile.hardclay_red_wall.name=Red Hardclay Wall
+tile.hardclay_black_wall.name=Black Hardclay Wall
+tile.glass_wall.name=Glass Wall
+tile.glass_white_wall.name=White Glass Wall
+tile.glass_orange_wall.name=Orange Glass Wall
+tile.glass_magenta_wall.name=Magenta Glass Wall
+tile.glass_light_blue_wall.name=Light Blue Glass Wall
+tile.glass_yellow_wall.name=Yellow Glass Wall
+tile.glass_lime_wall.name=Lime Glass Wall
+tile.glass_pink_wall.name=Pink Glass Wall
+tile.glass_gray_wall.name=Gray Glass Wall
+tile.glass_silver_wall.name=Silver Glass Wall
+tile.glass_cyan_wall.name=Cyan Glass Wall
+tile.glass_purple_wall.name=Purple Glass Wall
+tile.glass_blue_wall.name=Blue Glass Wall
+tile.glass_brown_wall.name=Brown Glass Wall
+tile.glass_green_wall.name=Green Glass Wall
+tile.glass_red_wall.name=Red Glass Wall
+tile.glass_black_wall.name=Black Glass Wall
+
+
+
+tile.acacia_lattice.name=Acacia Lattice
+tile.birch_lattice.name=Birch Lattice
+tile.dark_oak_lattice.name=Dark Oak Lattice
+tile.jungle_lattice.name=Jungle Lattice
+tile.oak_lattice.name=Oak Lattice
+tile.spruce_lattice.name=Spruce Lattice
+tile.paper_wall.name=Paper Wall
+
+
+
+tile.iron_fence.name=Iron Fence
+tile.gold_fence.name=Gold Fence
+tile.diamond_fence.name=Diamond Fence
+tile.emerald_fence.name=Emerald Fence
+tile.lapis_fence.name=Lapis Fence
+
+
+
+tile.oak_plank_pathway.name=Oak Pathway
+tile.spruce_plank_pathway.name=Spruce Pathway
+tile.birch_plank_pathway.name=Birch Pathway
+tile.jungle_plank_pathway.name=Jungle Pathway
+tile.acacia_plank_pathway.name=Acacia Pathway
+tile.dark_oak_plank_pathway.name=Dark Oak Pathway
+tile.stone_pathway.name=Stone pathway
+
+
+
+tile.iron_torch.name=Iron Torch
+tile.gold_torch.name=Gold Torch
+
+
+
+item.copper_ingot.name=Copper Ingot
+item.iridium_chunk.name=Iridium Chunk
+item.iridium_ingot.name=Iridium Ingot
+item.iridium_pellet.name=Iridium Pellet
+item.ruby.name=Ruby
+item.sapphire.name=Sapphire
+
+
+
+item.iron_rod.name=Iron Rod
+item.gold_rod.name=Gold Rod
+item.diamond_rod.name=Diamond Rod
+item.emerald_rod.name=Emerald Rod
+item.iridium_rod.name=Iridium Rod
+item.lapis_rod.name=Lapis Rod
+item.nether_rod.name=Nether Rod
+
+
+
+item.blue_dye.name=Blue Dye
+
+
+
+item.paper_bundle.name=Bundle of Paper
+item.stirrup.name=Stirrup
+item.strap.name=Strap
+item.rail_bed.name=Rail Bed
+
+
+
+item.copper_helmet.name=Copper Helmet
+item.copper_chestplate.name=Copper Chestplate
+item.copper_leggings.name=Copper Leggings
+item.copper_boots.name=Copper Boots
+
+
+
+item.copper_axe.name=Copper Axe
+item.copper_hoe.name=Copper Hoe
+item.copper_pickaxe.name=Copper Pickaxe
+item.copper_spade.name=Copper Spade
+item.copper_sword.name=Copper Sword
+item.ruby_axe.name=Ruby Axe
+item.ruby_hoe.name=Ruby Hoe
+item.ruby_pickaxe.name=Ruby Pickaxe
+item.ruby_spade.name=Ruby Spade
+item.ruby_sword.name=Ruby Sword
+item.sapphire_axe.name=Sapphire Axe
+item.sapphire_hoe.name=Sapphire Hoe
+item.sapphire_pickaxe.name=Sapphire Pickaxe
+item.sapphire_spade.name=Sapphire Spade
+item.sapphire_sword.name=Sapphire Sword
+item.iridium_axe.name=Iridium Axe
+item.iridium_hoe.name=Iridium Hoe
+item.iridium_pickaxe.name=Iridium Pickaxe
+item.iridium_spade.name=Iridium Spade
+item.iridium_sword.name=Iridium Sword

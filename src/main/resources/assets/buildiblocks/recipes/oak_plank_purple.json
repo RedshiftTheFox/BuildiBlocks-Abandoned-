@@ -1,0 +1,22 @@
+{
+  "type": "forge:ore_shaped",
+  "pattern": [
+    "aaa",
+    "aba",
+    "aaa"
+  ],
+  "key": {
+    "a": {
+      "item": "minecraft:planks",
+      "data": 0
+    },
+    "b": {
+      "item": "minecraft:dye",
+      "data": 5
+    }
+  },
+  "result": {
+    "item": "buildiblocks:oak_plank_purple",
+    "count": 8
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "type": "forge:ore_shaped",
+  "pattern": [
+    "aa"
+  ],
+  "key": {
+    "a": {
+      "item": "minecraft:stone",
+      "data": 5
+    }
+  },
+  "result": {
+    "item": "minecraft:stone",
+    "data": 6,
+    "count": 2
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "type": "forge:ore_shaped",
+  "group": "minecraft:wooden_stairs",
+  "pattern": [
+    "a  ",
+    "aa ",
+    "aaa"
+  ],
+  "key": {
+    "a": {
+      "item": "minecraft:planks",
+      "data": 5
+    }
+  },
+  "result": {
+    "item": "minecraft:dark_oak_stairs",
+    "count": 6
+  }
+}

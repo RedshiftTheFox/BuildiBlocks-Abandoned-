@@ -1,0 +1,39 @@
+{
+    "multipart": [
+        {
+            "apply": { "model": "buildiblocks:stone_pathway_lone" }
+        },
+        {
+            "when": { "north": true },
+            "apply": { "model": "buildiblocks:stone_pathway_n" }
+        },
+        {
+            "when": { "east": true },
+            "apply": { "model": "buildiblocks:stone_pathway_e" }
+        },
+        {
+            "when": { "south": true },
+            "apply": { "model": "buildiblocks:stone_pathway_s" }
+        },
+        {
+            "when": { "west": true },
+            "apply": { "model": "buildiblocks:stone_pathway_w" }
+        },
+        {
+            "when": { "north": false },
+            "apply": { "model": "buildiblocks:stone_pathway_lone" }
+        },
+        {
+            "when": { "east": false },
+            "apply": { "model": "buildiblocks:stone_pathway_lone" }
+        },
+        {
+            "when": { "south": false },
+            "apply": { "model": "buildiblocks:stone_pathway_lone" }
+        },
+        {
+            "when": { "west": false },
+            "apply": { "model": "buildiblocks:stone_pathway_lone" }
+        }
+    ]
+}

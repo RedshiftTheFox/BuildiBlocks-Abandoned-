@@ -1,0 +1,18 @@
+{
+  "type": "forge:ore_shaped",
+  "pattern": [
+    "aaa",
+    "   ",
+    "aaa"
+  ],
+  "key": {
+    "a": {
+      "item": "minecraft:planks",
+      "data": 1
+    }
+  },
+  "result": {
+    "item": "buildiblocks:spruce_plank_pathway",
+    "count": 12
+  }
+}

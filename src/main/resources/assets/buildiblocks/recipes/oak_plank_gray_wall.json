@@ -1,0 +1,16 @@
+{
+  "type": "forge:ore_shaped",
+  "pattern": [
+    "aaa",
+    "aaa"
+  ],
+  "key": {
+    "a": {
+      "item": "buildiblocks:oak_plank_gray"
+    }
+  },
+  "result": {
+    "item": "buildiblocks:oak_plank_gray_wall",
+    "count": 6
+  }
+}

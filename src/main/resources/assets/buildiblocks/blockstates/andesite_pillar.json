@@ -1,0 +1,7 @@
+{
+    "variants": {
+        "axis=y": { "model": "buildiblocks:andesite_pillar" },
+        "axis=z": { "model": "buildiblocks:andesite_pillar", "x": 90 },
+        "axis=x": { "model": "buildiblocks:andesite_pillar", "x": 90, "y": 90 }
+    }
+}

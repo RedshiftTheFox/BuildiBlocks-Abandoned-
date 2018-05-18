@@ -1,0 +1,7 @@
+{
+    "variants": {
+        "axis=y": { "model": "buildiblocks:carved_acacia_log" },
+        "axis=z": { "model": "buildiblocks:carved_acacia_log" , "x": 90 },
+        "axis=x": { "model": "buildiblocks:carved_acacia_log" , "x": 90, "y": 90 }
+    }
+}

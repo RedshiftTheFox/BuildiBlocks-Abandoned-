@@ -1,0 +1,20 @@
+{
+  "type": "forge:ore_shaped",
+  "pattern": [
+    "aba",
+    "aba"
+  ],
+  "key": {
+    "a": {
+      "item": "minecraft:stick"
+    },
+    "b": {
+      "item": "minecraft:planks",
+      "data": 0
+    }
+  },
+  "result": {
+    "item": "minecraft:fence_gate",
+    "count": 3
+  }
+}

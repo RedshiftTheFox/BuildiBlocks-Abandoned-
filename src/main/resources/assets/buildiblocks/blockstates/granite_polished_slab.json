@@ -1,0 +1,6 @@
+{
+    "variants": {
+        "half=bottom": { "model": "buildiblocks:granite_polished_slab_bottom" },
+        "half=top": { "model": "buildiblocks:granite_polished_slab_top" }
+    }
+}

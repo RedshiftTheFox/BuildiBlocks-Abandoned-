@@ -1,0 +1,18 @@
+{
+  "type": "forge:ore_shaped",
+  "pattern": [
+    "a  ",
+    "aa ",
+    "aaa"
+  ],
+  "key": {
+    "a": {
+      "item": "minecraft:stained_glass",
+      "data": 9
+    }
+  },
+  "result": {
+    "item": "buildiblocks:glass_cyan_stairs",
+    "count": 6
+  }
+}

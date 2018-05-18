@@ -1,0 +1,16 @@
+{
+  "type": "forge:ore_shaped",
+  "pattern": [
+    "a",
+    "a"
+  ],
+  "key": {
+    "a": {
+      "item": "minecraft:netherbrick"
+    }
+  },
+  "result": {
+    "item": "buildiblocks:nether_rod",
+    "count": 4
+  }
+}

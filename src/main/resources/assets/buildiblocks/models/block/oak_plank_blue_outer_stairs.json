@@ -1,0 +1,8 @@
+{
+    "parent": "block/outer_stairs",
+    "textures": {
+        "bottom": "buildiblocks:blocks/oak_plank_blue",
+        "top": "buildiblocks:blocks/oak_plank_blue",
+        "side": "buildiblocks:blocks/oak_plank_blue"
+    }
+}

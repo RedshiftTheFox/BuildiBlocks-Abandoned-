@@ -1,0 +1,6 @@
+{
+    "variants": {
+        "half=bottom": { "model": "buildiblocks:oak_plank_magenta_slab_bottom" },
+        "half=top": { "model": "buildiblocks:oak_plank_magenta_slab_top" }
+    }
+}

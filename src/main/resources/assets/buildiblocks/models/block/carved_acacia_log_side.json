@@ -1,0 +1,7 @@
+{
+  "parent": "block/column_side",
+  "textures": {
+    "end": "buildiblocks:blocks/carved_acacia_log_top",
+    "side": "buildiblocks:blocks/carved_acacia_log"
+  }
+}

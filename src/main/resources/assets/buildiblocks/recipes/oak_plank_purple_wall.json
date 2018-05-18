@@ -1,0 +1,16 @@
+{
+  "type": "forge:ore_shaped",
+  "pattern": [
+    "aaa",
+    "aaa"
+  ],
+  "key": {
+    "a": {
+      "item": "buildiblocks:oak_plank_purple"
+    }
+  },
+  "result": {
+    "item": "buildiblocks:oak_plank_purple_wall",
+    "count": 6
+  }
+}

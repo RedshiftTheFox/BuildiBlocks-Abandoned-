@@ -1,0 +1,7 @@
+{
+  "parent": "block/cube_column",
+  "textures": {
+    "end": "buildiblocks:blocks/carved_spruce_wood",
+    "side": "buildiblocks:blocks/carved_spruce_wood"
+  }
+}

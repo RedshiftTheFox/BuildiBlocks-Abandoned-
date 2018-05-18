@@ -1,0 +1,7 @@
+{
+    "variants": {
+        "axis=y": { "model": "buildiblocks:log_birch_pillar" },
+        "axis=z": { "model": "buildiblocks:log_birch_pillar", "x": 90 },
+        "axis=x": { "model": "buildiblocks:log_birch_pillar", "x": 90, "y": 90 }
+    }
+}

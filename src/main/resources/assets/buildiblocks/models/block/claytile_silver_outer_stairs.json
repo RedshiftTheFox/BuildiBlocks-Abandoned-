@@ -1,0 +1,8 @@
+{
+    "parent": "block/outer_stairs",
+    "textures": {
+        "bottom": "buildiblocks:blocks/claytile_silver",
+        "top": "buildiblocks:blocks/claytile_silver",
+        "side": "buildiblocks:blocks/claytile_silver"
+    }
+}
