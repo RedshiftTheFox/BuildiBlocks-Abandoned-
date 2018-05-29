@@ -304,7 +304,7 @@ tile.granite_brick_wall.name=Granite Brick Wall
 tile.granite_polished_wall.name=Polished granite Wall
 tile.iron_wall.name=Iron Wall
 tile.lapis_wall.name=Lapis Lazuli Wall
-tile.netherbrick_wall.name=Nether Brick Wall
+tile.nether_brick_wall.name=Nether Brick Wall
 tile.obsidian_wall.name=Obsidian Wall
 tile.prismarine_brick_wall.name=Prismarine Brick Wall
 tile.prismarine_dark_wall.name=Dark Prismarine Wall
@@ -374,7 +374,18 @@ tile.dark_oak_lattice.name=Dark Oak Lattice
 tile.jungle_lattice.name=Jungle Lattice
 tile.oak_lattice.name=Oak Lattice
 tile.spruce_lattice.name=Spruce Lattice
+tile.iron_lattice.name=Iron Lattice
+tile.gold_lattice.name=Gold Lattice
 tile.paper_wall.name=Paper Wall
+
+
+
+tile.oak_shutters.name=Oak Shutters
+tile.birch_shutters.name=Birch Shutters
+tile.spruce_shutters.name=Spruce Shutters
+tile.jungle_shutters.name=Jungle Shutters
+tile.acacia_shutters.name=Acacia Shutters
+tile.dark_oak_shutters.name=Dark Oak Shutters
 
 
 
@@ -392,7 +403,7 @@ tile.birch_plank_pathway.name=Birch Pathway
 tile.jungle_plank_pathway.name=Jungle Pathway
 tile.acacia_plank_pathway.name=Acacia Pathway
 tile.dark_oak_plank_pathway.name=Dark Oak Pathway
-tile.stone_pathway.name=Stone pathway
+tile.stone_pathway.name=Stone Pathway
 
 
 
@@ -401,60 +412,9 @@ tile.gold_torch.name=Gold Torch
 
 
 
-item.copper_ingot.name=Copper Ingot
-item.iridium_chunk.name=Iridium Chunk
-item.iridium_ingot.name=Iridium Ingot
-item.iridium_pellet.name=Iridium Pellet
-item.ruby.name=Ruby
-item.sapphire.name=Sapphire
-
-
-
 item.iron_rod.name=Iron Rod
 item.gold_rod.name=Gold Rod
 item.diamond_rod.name=Diamond Rod
 item.emerald_rod.name=Emerald Rod
-item.iridium_rod.name=Iridium Rod
 item.lapis_rod.name=Lapis Rod
-item.nether_rod.name=Nether Rod
 
-
-
-item.blue_dye.name=Blue Dye
-
-
-
-item.paper_bundle.name=Bundle of Paper
-item.stirrup.name=Stirrup
-item.strap.name=Strap
-item.rail_bed.name=Rail Bed
-
-
-
-item.copper_helmet.name=Copper Helmet
-item.copper_chestplate.name=Copper Chestplate
-item.copper_leggings.name=Copper Leggings
-item.copper_boots.name=Copper Boots
-
-
-
-item.copper_axe.name=Copper Axe
-item.copper_hoe.name=Copper Hoe
-item.copper_pickaxe.name=Copper Pickaxe
-item.copper_spade.name=Copper Spade
-item.copper_sword.name=Copper Sword
-item.ruby_axe.name=Ruby Axe
-item.ruby_hoe.name=Ruby Hoe
-item.ruby_pickaxe.name=Ruby Pickaxe
-item.ruby_spade.name=Ruby Spade
-item.ruby_sword.name=Ruby Sword
-item.sapphire_axe.name=Sapphire Axe
-item.sapphire_hoe.name=Sapphire Hoe
-item.sapphire_pickaxe.name=Sapphire Pickaxe
-item.sapphire_spade.name=Sapphire Spade
-item.sapphire_sword.name=Sapphire Sword
-item.iridium_axe.name=Iridium Axe
-item.iridium_hoe.name=Iridium Hoe
-item.iridium_pickaxe.name=Iridium Pickaxe
-item.iridium_spade.name=Iridium Spade
-item.iridium_sword.name=Iridium Sword

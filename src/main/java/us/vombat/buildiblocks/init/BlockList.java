@@ -54,7 +54,6 @@ import us.vombat.buildiblocks.blocks.blocks.fence.DiamondFence;
 import us.vombat.buildiblocks.blocks.blocks.fence.EmeraldFence;
 import us.vombat.buildiblocks.blocks.blocks.fence.GoldFence;
 import us.vombat.buildiblocks.blocks.blocks.fence.IronFence;
-import us.vombat.buildiblocks.blocks.blocks.fence.LapisFence;
 import us.vombat.buildiblocks.blocks.blocks.lattice.AcaciaLattice;
 import us.vombat.buildiblocks.blocks.blocks.lattice.BirchLattice;
 import us.vombat.buildiblocks.blocks.blocks.lattice.DarkOakLattice;
@@ -433,7 +432,6 @@ public class BlockList
 	public static final FenceBlock goldFence = new GoldFence(Blocks.GOLD_BLOCK);
 	public static final FenceBlock diamondFence = new DiamondFence(Blocks.DIAMOND_BLOCK);
 	public static final FenceBlock emeraldFence = new EmeraldFence(Blocks.EMERALD_BLOCK);
-	public static final FenceBlock lapisFence = new LapisFence(Blocks.LAPIS_BLOCK);
 
 
 

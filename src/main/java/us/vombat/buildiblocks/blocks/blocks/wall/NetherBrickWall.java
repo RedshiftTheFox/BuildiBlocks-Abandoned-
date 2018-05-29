@@ -5,7 +5,7 @@ import us.vombat.buildiblocks.blocks.handlers.WallBlock;
 
 public class NetherBrickWall extends WallBlock
 {
-	public static String name = "netherbrick_wall";
+	public static String name = "nether_brick_wall";
 	public NetherBrickWall(Block wall)
 	{
 		super(wall, name);
