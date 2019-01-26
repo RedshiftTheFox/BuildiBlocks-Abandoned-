@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "aba",
+    "aba"
+  ],
+  "key": {
+    "a": {
+      "item": "minecraft:emerald_block"
+    },
+    "b": {
+      "item": "buildiblocks:emerald_rod"
+    }
+  },
+  "result": {
+    "item": "buildiblocks:emerald_fence",
+    "count": 5
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "a  ",
+    "aa ",
+    "aaa"
+  ],
+  "key": {
+    "a": {
+      "item": "buildiblocks:granite_brick"
+    }
+  },
+  "result": {
+    "item": "buildiblocks:granite_brick_stairs",
+    "count": 6
+  }
+}

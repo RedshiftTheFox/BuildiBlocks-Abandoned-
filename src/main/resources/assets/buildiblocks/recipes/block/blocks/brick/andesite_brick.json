@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "aa",
+    "aa"
+  ],
+  "key": {
+    "a": {
+      "item": "minecraft:stone",
+      "data": 5
+    }
+  },
+  "result": {
+    "item": "buildiblocks:andesite_brick",
+    "count": 4
+  }
+}

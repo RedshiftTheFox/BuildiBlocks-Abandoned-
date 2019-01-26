@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "a",
+    "a"
+  ],
+  "key": {
+    "a": {
+      "item": "minecraft:wooden_slab",
+      "data": 5
+    }
+  },
+  "result": {
+    "item": "buildiblocks:carved_dark_oak_wood",
+    "count": 1
+  }
+}

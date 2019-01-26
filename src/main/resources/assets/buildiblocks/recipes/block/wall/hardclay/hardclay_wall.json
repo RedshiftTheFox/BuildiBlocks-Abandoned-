@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "aaa",
+    "aaa"
+  ],
+  "key": {
+    "a": {
+      "item": "minecraft:hardened_clay"
+    }
+  },
+  "result": {
+    "item": "buildiblocks:hardclay_wall",
+    "count": 6
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "a",
+    "a"
+  ],
+  "key": {
+    "a": {
+      "item": "minecraft:wooden_slab",
+      "data": 2
+    }
+  },
+  "result": {
+    "item": "buildiblocks:carved_birch_wood",
+    "count": 1
+  }
+}

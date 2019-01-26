@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "aaa"
+  ],
+  "key": {
+    "a": {
+      "item": "minecraft:stained_hardened_clay",
+      "data": 12
+    }
+  },
+  "result": {
+    "item": "buildiblocks:hardclay_brown_slab",
+    "data": 0,
+    "count": 6
+  }
+}

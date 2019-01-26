@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "a a",
+    " b ",
+    "a a"
+  ],
+  "key": {
+    "a": {
+      "item": "minecraft:planks",
+      "data": 4
+    },
+    "b": {
+      "item": "minecraft:stick"
+    }
+  },
+  "result": {
+    "item": "buildiblocks:acacia_lattice",
+    "count": 6
+  }
+}

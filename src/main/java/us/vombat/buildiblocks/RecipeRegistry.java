@@ -12,14 +12,13 @@ import net.minecraftforge.registries.IForgeRegistryModifiable;
 import us.vombat.buildiblocks.init.BlockList;
 import us.vombat.buildiblocks.util.IRecipeManager;
 
-@EventBusSubscriber public class RecipeRegistry extends IRecipeManager
+@EventBusSubscriber(modid=Info.id) public class RecipeRegistry extends IRecipeManager
 {
 	public void register()
 	{
 		removeVanillaSmelting();
 		initVanillaSmelting();
 		smelting();
-		slabs();
 	}
 	@SubscribeEvent public static void registerRecipes(RegistryEvent.Register<IRecipe> e)
 	{
@@ -129,6 +128,8 @@ import us.vombat.buildiblocks.util.IRecipeManager;
 	{
 		smeltingBB(Blocks.DIRT, Blocks.HARDENED_CLAY, 0.1F);
 	}
+	
+	//Legacy Code
 	private void slabs()
 	{
 //		GameRegistry.addShapedRecipe(new ResourceLocation("buildiblocks:granite_slab"), null, new ItemStack(BlockList.graniteSlab.getSingleSlab(), 6), new Object[] { "aaa", 'a', new ItemStack(Blocks.STONE, 1, 2) } );
@@ -229,7 +230,7 @@ import us.vombat.buildiblocks.util.IRecipeManager;
 		GameRegistry.addShapedRecipe(new ResourceLocation("buildiblocks:claytile_yellow_slab"), null, new ItemStack(BlockList.claytileYellowSlab.getSingleSlab(), 6), new Object[] { "aaa", 'a', BlockList.claytileYellow } );
 		GameRegistry.addShapedRecipe(new ResourceLocation("buildiblocks:claytile_slab"), null, new ItemStack(BlockList.claytileSlab.getSingleSlab(), 6), new Object[] { "aaa", 'a', BlockList.claytile } );
 
-		GameRegistry.addShapedRecipe(new ResourceLocation("buildiblocks:oak_plank_black_slab"), null, new ItemStack(BlockList.paintedOakBlackSlab.getSingleSlab(), 6), new Object[] { "aaa", 'a', BlockList.paintedOakBlack } );
+/*		GameRegistry.addShapedRecipe(new ResourceLocation("buildiblocks:oak_plank_black_slab"), null, new ItemStack(BlockList.paintedOakBlackSlab.getSingleSlab(), 6), new Object[] { "aaa", 'a', BlockList.paintedOakBlack } );
 		GameRegistry.addShapedRecipe(new ResourceLocation("buildiblocks:oak_plank_blue_slab"), null, new ItemStack(BlockList.paintedOakBlueSlab.getSingleSlab(), 6), new Object[] { "aaa", 'a', BlockList.paintedOakBlue } );
 		GameRegistry.addShapedRecipe(new ResourceLocation("buildiblocks:oak_plank_cyan_slab"), null, new ItemStack(BlockList.paintedOakCyanSlab.getSingleSlab(), 6), new Object[] { "aaa", 'a', BlockList.paintedOakCyan } );
 		GameRegistry.addShapedRecipe(new ResourceLocation("buildiblocks:oak_plank_gray_slab"), null, new ItemStack(BlockList.paintedOakGraySlab.getSingleSlab(), 6), new Object[] { "aaa", 'a', BlockList.paintedOakGray } );
@@ -243,6 +244,6 @@ import us.vombat.buildiblocks.util.IRecipeManager;
 		GameRegistry.addShapedRecipe(new ResourceLocation("buildiblocks:oak_plank_red_slab"), null, new ItemStack(BlockList.paintedOakRedSlab.getSingleSlab(), 6), new Object[] { "aaa", 'a', BlockList.paintedOakRed } );
 		GameRegistry.addShapedRecipe(new ResourceLocation("buildiblocks:oak_plank_silver_slab"), null, new ItemStack(BlockList.paintedOakSilverSlab.getSingleSlab(), 6), new Object[] { "aaa", 'a', BlockList.paintedOakSilver } );
 		GameRegistry.addShapedRecipe(new ResourceLocation("buildiblocks:oak_plank_white_slab"), null, new ItemStack(BlockList.paintedOakWhiteSlab.getSingleSlab(), 6), new Object[] { "aaa", 'a', BlockList.paintedOakWhite } );
-		GameRegistry.addShapedRecipe(new ResourceLocation("buildiblocks:oak_plank_yellow_slab"), null, new ItemStack(BlockList.paintedOakYellowSlab.getSingleSlab(), 6), new Object[] { "aaa", 'a', BlockList.paintedOakYellow } );
+		GameRegistry.addShapedRecipe(new ResourceLocation("buildiblocks:oak_plank_yellow_slab"), null, new ItemStack(BlockList.paintedOakYellowSlab.getSingleSlab(), 6), new Object[] { "aaa", 'a', BlockList.paintedOakYellow } );*/
 	}
 }

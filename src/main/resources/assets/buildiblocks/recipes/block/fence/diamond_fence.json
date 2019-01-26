@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "aba",
+    "aba"
+  ],
+  "key": {
+    "a": {
+      "item": "minecraft:diamond_block"
+    },
+    "b": {
+      "item": "buildiblocks:diamond_rod"
+    }
+  },
+  "result": {
+    "item": "buildiblocks:diamond_fence",
+    "count": 5
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "aaa"
+  ],
+  "key": {
+    "a": {
+      "item": "buildiblocks:claytile_blue"
+    }
+  },
+  "result": {
+    "item": "buildiblocks:claytile_blue_slab",
+    "data": 0,
+    "count": 6
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "aaa"
+  ],
+  "key": {
+    "a": {
+      "item": "minecraft:obsidian"
+    }
+  },
+  "result": {
+    "item": "buildiblocks:obsidian_slab",
+    "data": 0,
+    "count": 6
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "aaa",
+    "   ",
+    "aaa"
+  ],
+  "key": {
+    "a": {
+      "item": "minecraft:planks",
+      "data": 0
+    }
+  },
+  "result": {
+    "item": "buildiblocks:oak_plank_pathway",
+    "count": 12
+  }
+}

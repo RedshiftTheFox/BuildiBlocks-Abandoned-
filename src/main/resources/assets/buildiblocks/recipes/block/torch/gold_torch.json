@@ -1,0 +1,26 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "a",
+    "b"
+  ],
+  "key": {
+    "a": [
+      {
+        "item": "minecraft:coal",
+        "data": 0
+      },
+      {
+        "item": "minecraft:coal",
+        "data": 1
+      }
+    ],
+    "b": {
+      "item": "buildiblocks:gold_rod"
+    }
+  },
+  "result": {
+    "item": "buildiblocks:gold_torch",
+    "count": 4
+  }
+}

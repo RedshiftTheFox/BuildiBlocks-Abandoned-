@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "aaa"
+  ],
+  "key": {
+    "a": {
+      "item": "minecraft:red_sandstone",
+      "data": 2
+    }
+  },
+  "result": {
+    "item": "buildiblocks:red_sandstone_smooth_slab",
+    "data": 0,
+    "count": 6
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "a  ",
+    "aa ",
+    "aaa"
+  ],
+  "key": {
+    "a": {
+      "item": "buildiblocks:claytile_lime"
+    }
+  },
+  "result": {
+    "item": "buildiblocks:claytile_lime_stairs",
+    "count": 6
+  }
+}

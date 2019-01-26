@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "aa",
+    "aa"
+  ],
+  "key": {
+    "a": {
+      "item": "minecraft:stained_hardened_clay",
+      "data": 3
+    }
+  },
+  "result": {
+    "item": "buildiblocks:claytile_light_blue",
+    "count": 4
+  }
+}

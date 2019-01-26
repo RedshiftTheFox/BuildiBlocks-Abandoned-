@@ -361,9 +361,9 @@ import us.vombat.buildiblocks.blocks.handlers.WallBlock;
 public class BlockList
 {
 	public static final List<Block> list = new ArrayList<Block>();
-	
+
 	//Basic Cubed Blocks
-	
+
 	public static final BasicBlock graniteBrick = new GraniteBrick();
 	public static final BasicBlock dioriteBrick = new DioriteBrick();
 	public static final BasicBlock andesiteBrick = new AndesiteBrick();
@@ -394,7 +394,7 @@ public class BlockList
 	public static final BasicBlock claytileRed = new ClayTileRed();
 	public static final BasicBlock claytileBlack = new ClayTileBlack();
 	public static final BasicBlock claytile = new ClayTile();
-	public static final BasicBlock paintedOakWhite = new PaintedOakWhite();
+/*	public static final BasicBlock paintedOakWhite = new PaintedOakWhite();
 	public static final BasicBlock paintedOakOrange = new PaintedOakOrange();
 	public static final BasicBlock paintedOakMagenta = new PaintedOakMagenta();
 	public static final BasicBlock paintedOakLightBlue = new PaintedOakLightBlue();
@@ -408,15 +408,15 @@ public class BlockList
 	public static final BasicBlock paintedOakBlue = new PaintedOakBlue();
 	public static final BasicBlock paintedOakGreen = new PaintedOakGreen();
 	public static final BasicBlock paintedOakRed = new PaintedOakRed();
-	public static final BasicBlock paintedOakBlack = new PaintedOakBlack();
+	public static final BasicBlock paintedOakBlack = new PaintedOakBlack();*/
 
 
-	
+	//Misc Blocks
 
 	public static final PaneBlock paperWall = new PaperWall();
 
 
-
+	//Lattice Blocks
 
 	public static final PaneBlock acaciaLattice = new AcaciaLattice();
 	public static final PaneBlock birchLattice = new BirchLattice();
@@ -426,7 +426,7 @@ public class BlockList
 	public static final PaneBlock spruceLattice = new SpruceLattice();
 
 
-
+	//Fence Blocks
 
 	public static final FenceBlock ironFence = new IronFence(Blocks.IRON_BLOCK);
 	public static final FenceBlock goldFence = new GoldFence(Blocks.GOLD_BLOCK);
@@ -434,7 +434,7 @@ public class BlockList
 	public static final FenceBlock emeraldFence = new EmeraldFence(Blocks.EMERALD_BLOCK);
 
 
-
+	//Decor Pathway Blocks
 
 	public static final PathwayBlock stonePathway = new StonePathway(Blocks.STONE);
 	public static final PathwayBlock oakPathway = new OakPlankPathway(Blocks.PLANKS);
@@ -445,7 +445,7 @@ public class BlockList
 	public static final PathwayBlock darkOakPathway = new DarkOakPlankPathway(Blocks.PLANKS);
 
 
-
+	//Pillar Blocks
 
 	public static final TorchBlock ironTorch = new IronTorch();
 	public static final TorchBlock goldTorch = new GoldTorch();
@@ -461,7 +461,7 @@ public class BlockList
 	public static final RotatedBlock darkOakPillar = new CarvedDarkOakLog(Blocks.LOG2);
 
 
-
+	//Stair Blocks
 
 	public static final StairBlock stoneStair = new StoneStair(Blocks.STONE);
 	public static final StairBlock stonebrickCrackStair = new StonebrickCrackedStair(Blocks.STONEBRICK);
@@ -484,8 +484,8 @@ public class BlockList
 	public static final StairBlock prismarineDarkStair = new PrismarineDarkStair(Blocks.PRISMARINE);
 	public static final StairBlock sandstoneSmoothStair = new SandstoneSmoothStair(Blocks.SANDSTONE);
 	public static final StairBlock redSmoothSandstoneStair = new RedSandstoneSmoothStair(Blocks.RED_SANDSTONE);
-	
-	public static final StairBlock paintedOakWhiteStair = new PaintedOakWhiteStair(Blocks.PLANKS);
+
+/*	public static final StairBlock paintedOakWhiteStair = new PaintedOakWhiteStair(Blocks.PLANKS);
 	public static final StairBlock paintedOakOrangeStair = new PaintedOakOrangeStair(Blocks.PLANKS);
 	public static final StairBlock paintedOakMagentaStair = new PaintedOakMagentaStair(Blocks.PLANKS);
 	public static final StairBlock paintedOakLightBlueStair = new PaintedOakLightBlueStair(Blocks.PLANKS);
@@ -499,7 +499,7 @@ public class BlockList
 	public static final StairBlock paintedOakBlueStair = new PaintedOakBlueStair(Blocks.PLANKS);
 	public static final StairBlock paintedOakGreenStair = new PaintedOakGreenStair(Blocks.PLANKS);
 	public static final StairBlock paintedOakRedStair = new PaintedOakRedStair(Blocks.PLANKS);
-	public static final StairBlock paintedOakBlackStair = new PaintedOakBlackStair(Blocks.PLANKS);
+	public static final StairBlock paintedOakBlackStair = new PaintedOakBlackStair(Blocks.PLANKS);*/
 
 	public static final StairBlock claytileStair = new ClaytileStair(Blocks.HARDENED_CLAY);
 	public static final StairBlock claytileWhiteStair = new ClaytileWhiteStair(Blocks.HARDENED_CLAY);
@@ -570,7 +570,7 @@ public class BlockList
 	public static final StairTranslucentBlock glassBlackStair = new GlassBlackStair(Blocks.GLASS);
 
 
-
+	//Slab Blocks
 
 	public static final SlabContainer stonebrickCrackSlab = new StonebrickCrackedSlab(Blocks.STONEBRICK);
 	public static final SlabContainer stonebrickMossSlab = new StonebrickMossySlab(Blocks.STONEBRICK);
@@ -594,8 +594,8 @@ public class BlockList
 	public static final SlabContainer emeraldSlab = new EmeraldSlab(Blocks.EMERALD_BLOCK);
 	public static final SlabContainer lapisSlab = new LapisSlab(Blocks.LAPIS_BLOCK);
 	public static final SlabContainer haybaleSlab = new HaybaleSlab(Blocks.HAY_BLOCK);
-	
-	public static final SlabContainer paintedOakWhiteSlab = new PaintedOakWhiteSlab(Blocks.PLANKS);
+
+/*	public static final SlabContainer paintedOakWhiteSlab = new PaintedOakWhiteSlab(Blocks.PLANKS);
 	public static final SlabContainer paintedOakOrangeSlab = new PaintedOakOrangeSlab(Blocks.PLANKS);
 	public static final SlabContainer paintedOakMagentaSlab = new PaintedOakMagentaSlab(Blocks.PLANKS);
 	public static final SlabContainer paintedOakLightBlueSlab = new PaintedOakLightBlueSlab(Blocks.PLANKS);
@@ -609,7 +609,7 @@ public class BlockList
 	public static final SlabContainer paintedOakBlueSlab = new PaintedOakBlueSlab(Blocks.PLANKS);
 	public static final SlabContainer paintedOakGreenSlab = new PaintedOakGreenSlab(Blocks.PLANKS);
 	public static final SlabContainer paintedOakRedSlab = new PaintedOakRedSlab(Blocks.PLANKS);
-	public static final SlabContainer paintedOakBlackSlab = new PaintedOakBlackSlab(Blocks.PLANKS);
+	public static final SlabContainer paintedOakBlackSlab = new PaintedOakBlackSlab(Blocks.PLANKS);*/
 
 	public static final SlabContainer claytileSlab = new ClaytileSlab(Blocks.HARDENED_CLAY);
 	public static final SlabContainer claytileWhiteSlab = new ClaytileWhiteSlab(Blocks.HARDENED_CLAY);
@@ -680,7 +680,7 @@ public class BlockList
 	public static final SlabTranslucentContainer glassBlackSlab = new GlassBlackSlab(Blocks.GLASS);
 
 
-
+	//Wall Blocks
 
 	public static final WallBlock stoneWall = new StoneWall(Blocks.STONE);
 	public static final WallBlock granitePolishWall = new GranitePolishedWall(Blocks.STONE);
@@ -689,12 +689,6 @@ public class BlockList
 	public static final WallBlock dioriteBrickWall = new DioriteBrickWall(Blocks.STONE);
 	public static final WallBlock andesitePolishWall = new AndesitePolishedWall(Blocks.STONE);
 	public static final WallBlock andesiteBrickWall = new AndesiteBrickWall(Blocks.STONE);
-//	public static final WallBlock oakWall = new OakWall(Blocks.LOG);
-//	public static final WallBlock spruceWall = new SpruceWall(Blocks.LOG);
-//	public static final WallBlock birchWall = new BirchWall(Blocks.LOG);
-//	public static final WallBlock jungleWall = new JungleWall(Blocks.LOG);
-//	public static final WallBlock acaciaWall = new AcaciaWall(Blocks.LOG2);
-//	public static final WallBlock darkOakWall = new DarkOakWall(Blocks.LOG2);
 	public static final WallBlock brickWall = new BrickWall(Blocks.BRICK_BLOCK);
 	public static final WallBlock ironWall = new IronWall(Blocks.IRON_BLOCK);
 	public static final WallBlock diamondWall = new DiamondWall(Blocks.DIAMOND_BLOCK);
@@ -715,8 +709,8 @@ public class BlockList
 	public static final WallBlock sandstoneWall = new SandstoneWall(Blocks.SANDSTONE);
 	public static final WallBlock redSmoothSandstoneWall = new RedSandstoneSmoothWall(Blocks.RED_SANDSTONE);
 	public static final WallBlock redsandstoneWall = new RedSandstoneWall(Blocks.RED_SANDSTONE);
-	
-	public static final WallBlock paintedOakWhiteWall = new PaintedOakWhiteWall(Blocks.PLANKS);
+
+/*	public static final WallBlock paintedOakWhiteWall = new PaintedOakWhiteWall(Blocks.PLANKS);
 	public static final WallBlock paintedOakOrangeWall = new PaintedOakOrangeWall(Blocks.PLANKS);
 	public static final WallBlock paintedOakMagentaWall = new PaintedOakMagentaWall(Blocks.PLANKS);
 	public static final WallBlock paintedOakLightBlueWall = new PaintedOakLightBlueWall(Blocks.PLANKS);
@@ -730,7 +724,7 @@ public class BlockList
 	public static final WallBlock paintedOakBlueWall = new PaintedOakBlueWall(Blocks.PLANKS);
 	public static final WallBlock paintedOakGreenWall = new PaintedOakGreenWall(Blocks.PLANKS);
 	public static final WallBlock paintedOakRedWall = new PaintedOakRedWall(Blocks.PLANKS);
-	public static final WallBlock paintedOakBlackWall = new PaintedOakBlackWall(Blocks.PLANKS);
+	public static final WallBlock paintedOakBlackWall = new PaintedOakBlackWall(Blocks.PLANKS);*/
 
 	public static final WallBlock hardclayWall = new HardclayWall(Blocks.HARDENED_CLAY);
 	public static final WallBlock hardclayWhiteWall = new HardclayWhiteWall(Blocks.HARDENED_CLAY);
@@ -766,7 +760,4 @@ public class BlockList
 	public static final WallTranslucentBlock glassGreenWall = new GlassGreenWall(Blocks.GLASS);
 	public static final WallTranslucentBlock glassRedWall = new GlassRedWall(Blocks.GLASS);
 	public static final WallTranslucentBlock glassBlackWall = new GlassBlackWall(Blocks.GLASS);*/
-
-
-
 }

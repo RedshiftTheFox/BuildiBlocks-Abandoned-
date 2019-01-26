@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "a  ",
+    "aa ",
+    "aaa"
+  ],
+  "key": {
+    "a": {
+      "item": "buildiblocks:claytile_pink"
+    }
+  },
+  "result": {
+    "item": "buildiblocks:claytile_pink_stairs",
+    "count": 6
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "aaa",
+    "   ",
+    "aaa"
+  ],
+  "key": {
+    "a": {
+      "item": "minecraft:planks",
+      "data": 3
+    }
+  },
+  "result": {
+    "item": "buildiblocks:jungle_plank_pathway",
+    "count": 12
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "aaa"
+  ],
+  "key": {
+    "a": {
+      "item": "minecraft:wool",
+      "data": 4
+    }
+  },
+  "result": {
+    "item": "buildiblocks:wool_yellow_slab",
+    "data": 0,
+    "count": 6
+  }
+}
