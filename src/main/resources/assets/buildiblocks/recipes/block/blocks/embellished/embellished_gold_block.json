@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "a",
+    "a"
+  ],
+  "key": {
+    "a": {
+      "item": "buildiblocks:gold_slab",
+      "data": 0
+    }
+  },
+  "result": {
+    "item": "buildiblocks:embellished_gold_block",
+    "count": 1
+  }
+}

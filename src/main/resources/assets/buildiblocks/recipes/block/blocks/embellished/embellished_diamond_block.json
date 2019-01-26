@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "a",
+    "a"
+  ],
+  "key": {
+    "a": {
+      "item": "buildiblocks:diamond_slab",
+      "data": 0
+    }
+  },
+  "result": {
+    "item": "buildiblocks:embellished_diamond_block",
+    "count": 1
+  }
+}
