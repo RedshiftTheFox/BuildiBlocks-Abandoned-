@@ -7,12 +7,11 @@
   ],
   "key": {
     "a": {
-      "item": "minecraft:sandstone",
-      "data": 0
+      "item": "minecraft:nether_brick"
     }
   },
   "result": {
-    "item": "minecraft:sandstone_stairs",
+    "item": "minecraft:nether_brick_stairs",
     "count": 6
   }
 }

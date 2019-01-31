@@ -6,20 +6,10 @@
     "aaa"
   ],
   "key": {
-    "a": [
-      {
-        "item": "minecraft:quartz_block",
-        "data": 0
-      },
-      {
-        "item": "minecraft:quartz_block",
-        "data": 1
-      },
-      {
-        "item": "minecraft:quartz_block",
-        "data": 2
-      }
-    ]
+    "a": {
+      "item": "minecraft:quartz_block",
+      "data": 0
+    }
   },
   "result": {
     "item": "minecraft:quartz_stairs",

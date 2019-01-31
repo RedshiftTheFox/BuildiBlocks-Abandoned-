@@ -7,12 +7,11 @@
   ],
   "key": {
     "a": {
-      "item": "minecraft:sandstone",
-      "data": 0
+      "item": "minecraft:mossy_cobblestone"
     }
   },
   "result": {
-    "item": "minecraft:sandstone_stairs",
+    "item": "buildiblocks:cobblestone_mossy_stairs",
     "count": 6
   }
 }

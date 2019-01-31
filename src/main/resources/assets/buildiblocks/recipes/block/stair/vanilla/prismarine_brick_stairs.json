@@ -7,12 +7,12 @@
   ],
   "key": {
     "a": {
-      "item": "minecraft:sandstone",
-      "data": 0
+      "item": "minecraft:prismarine",
+      "data": 1
     }
   },
   "result": {
-    "item": "minecraft:sandstone_stairs",
+    "item": "buildiblocks:prismarine_brick_stairs",
     "count": 6
   }
 }

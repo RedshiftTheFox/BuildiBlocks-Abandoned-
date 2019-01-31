@@ -1,8 +1,7 @@
 {
   "type": "minecraft:crafting_shaped",
   "pattern": [
-    "a  ",
-    "aa ",
+    "aaa",
     "aaa"
   ],
   "key": {
@@ -12,7 +11,7 @@
     }
   },
   "result": {
-    "item": "minecraft:sandstone_stairs",
+    "item": "buildiblocks:sandstone_wall",
     "count": 6
   }
 }

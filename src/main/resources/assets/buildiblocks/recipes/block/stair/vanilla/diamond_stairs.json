@@ -7,12 +7,11 @@
   ],
   "key": {
     "a": {
-      "item": "minecraft:sandstone",
-      "data": 0
+      "item": "minecraft:diamond_block"
     }
   },
   "result": {
-    "item": "minecraft:sandstone_stairs",
+    "item": "buildiblocks:diamond_stairs",
     "count": 6
   }
 }

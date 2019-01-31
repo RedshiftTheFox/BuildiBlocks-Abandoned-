@@ -1,18 +1,17 @@
 {
   "type": "minecraft:crafting_shaped",
   "pattern": [
-    "a  ",
-    "aa ",
+    "aaa",
     "aaa"
   ],
   "key": {
     "a": {
-      "item": "minecraft:sandstone",
+      "item": "minecraft:stone",
       "data": 0
     }
   },
   "result": {
-    "item": "minecraft:sandstone_stairs",
+    "item": "buildiblocks:stone_wall",
     "count": 6
   }
 }

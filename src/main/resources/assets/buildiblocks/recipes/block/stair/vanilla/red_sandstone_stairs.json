@@ -6,20 +6,10 @@
     "aaa"
   ],
   "key": {
-    "a": [
-      {
-        "item": "minecraft:red_sandstone",
-        "data": 0
-      },
-      {
-        "item": "minecraft:red_sandstone",
-        "data": 1
-      },
-      {
-        "item": "minecraft:red_sandstone",
-        "data": 2
-      }
-    ]
+    "a": {
+      "item": "minecraft:red_sandstone",
+      "data": 0
+    }
   },
   "result": {
     "item": "minecraft:red_sandstone_stairs",

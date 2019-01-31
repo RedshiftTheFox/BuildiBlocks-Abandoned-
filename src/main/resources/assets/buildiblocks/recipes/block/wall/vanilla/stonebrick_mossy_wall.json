@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "aaa",
+    "aaa"
+  ],
+  "key": {
+    "a": [
+      {
+        "item": "minecraft:stonebrick",
+        "data": 1
+      }
+    ]
+  },
+  "result": {
+    "item": "buildiblocks:stonebrick_mossy_wall",
+    "count": 6
+  }
+}

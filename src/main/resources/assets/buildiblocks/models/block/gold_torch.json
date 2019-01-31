@@ -2,7 +2,7 @@
     "forge_marker": 1,
     "defaults": {
         "textures": {
-            "torch": "shiftcraft:blocks/gold_torch"
+            "torch": "buildiblocks:blocks/gold_torch"
         },
         "model": "torch_wall"
     },
@@ -16,7 +16,7 @@
             "down": {
                 "model": "torch",
                 "textures": {
-                    "torch": "shiftcraft:blocks/gold_torch_hanging"
+                    "torch": "buildiblocks:blocks/gold_torch_hanging"
                 }
             }
         }

@@ -1,0 +1,13 @@
+BuildiBlocks 1.12.2 Alpha Change Log
+
+  v0.4.1
+    + Added this change log for any and all additions, removals, changes, fixes, etc.
+    + Added numerous missing recipes.
+    + Carved Logs now give four planks in crafting just as they do in 1.13.*.
+    * Removed and reinitialized Nether Brick Stairs in code to augment the output amount for the recipe.
+    * Fixed a texture error in the Smooth Sandstone Slab files.
+    - Removed duplicate recipes.
+    - Removed bugged duplicate recipes causing others to not work properly or be overwritten entirely.
+
+  v0.4.0
+    * Initial build.
